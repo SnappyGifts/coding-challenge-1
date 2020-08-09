@@ -69,7 +69,7 @@ These responses are meant to provide guidance. The exact values can vary based o
 ### Non-functional
 
 - All code should be written in Javascript
-- Challenge is submitted as a forked *private* repository
+- Challenge is submitted as a forked **PRIVATE** repository
 - Documentation and maintainability is a plus.
 
 ## Dataset
@@ -143,7 +143,7 @@ it should produce an output similar to:
 ```
 
 ### Submitting your challenge
-Share your forked *private* repository with us (instructions will be given separately)
+Share your forked **PRIVATE** repository with us (instructions will be given separately)
 
 
 ## Good luck!
