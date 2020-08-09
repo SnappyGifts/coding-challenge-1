@@ -1,4 +1,4 @@
-# Coding Challenge - Backend
+# Coding Challenge
 
 ## Requirements
 
