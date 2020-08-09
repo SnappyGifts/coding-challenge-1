@@ -1,0 +1,18 @@
+{
+  "name": "coding-challenge-cities-autocomplete",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "./node_modules/.bin/serverless offline",
+    "test": "./node_modules/.bin/serverless invoke test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnappyGifts/coding-challenge-cities-autocomplete.git"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "serverless": "^1.78.1",
+    "serverless-jest-plugin": "^0.3.0",
+    "serverless-offline": "^6.5.0"
+  }
+}

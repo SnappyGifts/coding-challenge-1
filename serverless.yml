@@ -1,0 +1,22 @@
+# For full config options, check the docs:
+#    docs.serverless.com
+#
+# Happy Coding!
+
+service: coding-challenge-cities-autocomplete
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+
+functions:
+  suggestions:
+    handler: functions/suggestions.handler
+    events:
+      - http:
+          path: suggestions
+          method: get
+
+plugins:
+  - serverless-offline
+  - serverless-jest-plugin
