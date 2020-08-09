@@ -1,4 +1,4 @@
-# Coding Challenge - Cities Autocomplete
+# Coding Challenge - Backend
 
 ## Requirements
 
