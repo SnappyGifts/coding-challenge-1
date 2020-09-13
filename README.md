@@ -69,7 +69,7 @@ These responses are meant to provide guidance. The exact values can vary based o
 ### Non-functional
 
 - All code should be written in Javascript
-- Challenge is submitted as a forked **PRIVATE** repository
+- Challenge is submitted as a **PRIVATE** repository
 - Documentation and maintainability is a plus.
 
 ## Dataset
