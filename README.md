@@ -71,7 +71,7 @@ These responses are meant to provide guidance. The exact values can vary based o
 - All code should be written in Javascript
 - Challenge is submitted as a **PRIVATE** repository
 - Documentation and maintainability is a plus
-- 3rd packages usage is allowed
+- Open source (NPM packages) usage is allowed
 
 ## Dataset
 
